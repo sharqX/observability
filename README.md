@@ -38,7 +38,7 @@ It also includes deployment of the **OpenTelemetry demo application** to showcas
 
 ## 📂 Repository Structure
 
-\`\`\`bash
+```bash
 observability/
 ├── docker-compose.yml         # Docker Compose setup for local deployment
 ├── prometheus/
@@ -53,8 +53,7 @@ observability/
 ├── opentelemetry-demo/
 │   └── manifests/              # OpenTelemetry demo app configurations
 └── README.md                   # Project documentation
-\`\`\`
-
+```
 ## 🚀 How to Run
 
 ### Prerequisites
